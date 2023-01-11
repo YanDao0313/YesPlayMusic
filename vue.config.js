@@ -38,7 +38,7 @@ module.exports = {
       entry: 'src/main.js',
       template: 'public/index.html',
       filename: 'index.html',
-      title: 'YeMusic.YD',
+      title: 'Music.YD',
       chunks: ['main', 'chunk-vendors', 'chunk-common', 'index'],
     },
   },
